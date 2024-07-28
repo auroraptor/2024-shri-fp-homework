@@ -13,7 +13,6 @@ import {
   converge,
   not,
   map,
-  T,
 } from "ramda";
 
 import { SHAPES, COLORS } from "../constants";
